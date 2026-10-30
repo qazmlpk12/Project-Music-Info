@@ -38,6 +38,6 @@ Project Music is maintained as a personal development project. It is provided as
 
 ## Contact
 
-Project maintainer: **[Add a contact email or preferred contact method]**
+Project maintainer: [qazmlpk12](https://github.com/qazmlpk12)
 
 Project page: [Project Music on GitHub](https://github.com/qazmlpk12/Project-Music-Info)
